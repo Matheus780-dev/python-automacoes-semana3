@@ -43,7 +43,7 @@ O foco desta semana foi **automação de Excel, manipulação de PDFs e consolid
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/automacao-python-semana3.git
+   git clone  https://github.com/Matheus780-dev/python-automacoes-semana3.git
    cd automacao-python-semana3
    ```
 
@@ -59,8 +59,3 @@ O foco desta semana foi **automação de Excel, manipulação de PDFs e consolid
 
 ---
 
-## 👤 Autor
-**Matheus Oliveira**  
-📧 [seuemail@email.com]  
-💼 [LinkedIn aqui]  
-🐙 [GitHub aqui]  
